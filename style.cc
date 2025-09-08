@@ -1,7 +1,7 @@
 /*
 Theme Name: Easy Permit AI
 Theme URI: http://yourwebsite.com
-Author: Your Name
+Author: Functional Freedom
 Author URI: http://yourwebsite.com
 Description: A custom theme for Easy Permit AI, a website providing permit-related services.
 Version: 1.0
