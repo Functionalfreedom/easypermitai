@@ -52,7 +52,7 @@
         $additional_info = $_POST['additional-info'];
 
         // Email address to receive form submissions
-        $to = "hierarchyinvestmentcorp@gmail.com";
+        $to = "YOUR_SECURE_INBOUND_MAILVAR";
         $subject = "New Permit Request from $business_name";
         $message = "
         Business Name: $business_name\n
